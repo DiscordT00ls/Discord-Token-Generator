@@ -7,4 +7,4 @@ Your generated tokens in terminal(command prompt) or tokens.txt!
 Open issue in this, i will try fixing.
 
 # Make sure to join our server!
-discord.gg/gUHQZGDuXG
+discord.gg/legitmembers
